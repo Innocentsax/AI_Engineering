@@ -34,8 +34,6 @@ See [Guide 9](guides/09_ai_apis_and_ollama.ipynb) in the guides directory for th
 There are folders for each of the "weeks", representing modules of the class, culminating in a powerful autonomous Agentic AI solution in Week 8 that draws on many of the prior weeks.    
 Follow the setup instructions above, then open the Week 1 folder and prepare for joy.
 
-## Starting in Week 3, we'll also be using Google Colab for running with GPUs
-
 You should be able to use the free tier or minimal spend to complete all the projects in the class. I personally signed up for Colab Pro+ and I'm loving it - but it's not required.
 
 Learn about Google Colab and set up a Google account (if you don't already have one) [here](https://colab.research.google.com/)
